@@ -71,7 +71,7 @@ export default function Weather(props) {
             <footer>
               This project was coded by{" "}
               <a
-                href="https://www.shecodes.io/"
+                href="https://tranquil-tarsier-93eb74.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -87,7 +87,7 @@ export default function Weather(props) {
               </a>{" "}
               and{" "}
               <a
-                href="/"
+                href="https://soft-pony-26c4cc.netlify.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >
