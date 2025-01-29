@@ -1,4 +1,5 @@
 body {
   margin: 0;
   font-family: "Cormorant", serif;
+  background: linear-gradient(89.8deg, rgb(204, 156, 223) 0.3%, rgb(155, 219, 245) 20.4%, rgb(245, 183, 208) 40.2%, rgb(250, 186, 98) 62.9%, rgb(234, 238, 240) 81.9%, rgb(250, 245, 171) 99.2%);
 }
